@@ -1,11 +1,11 @@
-package com.kazimasum.spdemo;
+package com.login.api.php;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class controller
 {
-   private static final String url="http://192.168.0.100/api/";
+   private static final String url="http://172.16.75.224/api/";
    private static controller clienobject;
    private static Retrofit retrofit;
 

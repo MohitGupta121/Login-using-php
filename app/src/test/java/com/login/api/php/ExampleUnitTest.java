@@ -1,4 +1,4 @@
-package com.kazimasum.spdemo;
+package com.login.api.php;
 
 import org.junit.Test;
 
