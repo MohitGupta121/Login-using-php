@@ -5,7 +5,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class controller
 {
-   private static final String url="http://172.16.75.224/api/";
+   private static final String url="http://172.16.75.224/android_db_pool/android/";
    private static controller clienobject;
    private static Retrofit retrofit;
 
